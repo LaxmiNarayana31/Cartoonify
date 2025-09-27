@@ -1,0 +1,13 @@
+[project]
+name = "image-to-cartoon"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.6",
+    "mediapipe>=0.10.14",
+    "numpy>=2.3.3",
+    "opencv-python-headless>=4.11.0.86",
+    "streamlit>=1.50.0",
+]
