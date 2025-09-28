@@ -25,7 +25,8 @@ matplotlib==3.10.6
 mediapipe==0.10.14
 ml-dtypes==0.5.3
 narwhals==2.5.0
-numpy==2.2.6
+numpy==2.3.3
+opencv-contrib-python==4.11.0.86
 opencv-python-headless==4.11.0.86
 opt-einsum==3.4.0
 packaging==25.0
